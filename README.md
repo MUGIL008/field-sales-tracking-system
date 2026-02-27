@@ -76,10 +76,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-> **Note:** If you get a `bcrypt` version error with `passlib`, pin bcrypt:
-> ```bash
-> pip install bcrypt==4.0.1
-> ```
+
 
 Seed the database with sample data:
 
