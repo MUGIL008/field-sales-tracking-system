@@ -18,17 +18,25 @@ LVI_HOLDING/
 │   ├── requirements.txt  # Python dependencies
 │   └── sales.db          # SQLite database (auto-generated)
 │
-└── frontend/
-    ├── public/
-    └── src/
-        ├── pages/
-        │   ├── Login.js       # Login page with link to Register
-        │   ├── Register.js    # New user registration page
-        │   ├── Dashboard.js   # Summary stats & navigation
-        │   ├── LogVisit.js    # Form to log a new outlet visit
-        │   └── Visits.js      # Table of all logged visits
-        ├── App.js             # Route definitions
-        └── index.js           # React entry point
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── pages/
+│       │   ├── Login.js       # Login page with link to Register
+│       │   ├── Register.js    # New user registration page
+│       │   ├── Dashboard.js   # Summary stats & navigation
+│       │   ├── LogVisit.js    # Form to log a new outlet visit
+│       │   └── Visits.js      # Table of all logged visits
+│       ├── App.js             # Route definitions
+│       └── index.js           # React entry point
+│
+├── data-analysis/
+│   ├── sales_data.csv     # Raw sales dataset
+│   ├── analysis.py        # Python analysis script
+│   └── report.md          # Analysis findings report
+│
+├── README.md
+└── REFLECTION.md
 ```
 
 ---
