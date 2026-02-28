@@ -1,0 +1,39 @@
+outlet_id,outlet_name,city,date,product,cases_sold,revenue
+101,The Vault,Bangalore,05-10-2025,Boroka Gin,3,13500
+102,Skybar,Bangalore,05-10-2025,Boroka Gin,5,22500
+103,Noir Lounge,Bangalore,06-10-2025,Boroka Gin,2,9000
+104,Metro Club,Bangalore,08-10-2025,Boroka Gin,4,18000
+105,Urban Spirits,Bangalore,10-10-2025,Boroka Gin,6,27000
+106,The Library,Bangalore,12-10-2025,Boroka Gin,3,13500
+107,Cloud Nine,Bangalore,15-10-2025,Boroka Gin,2,9000
+108,Basement Bar,Bangalore,18-10-2025,Boroka Gin,4,18000
+109,Rooftop Republic,Bangalore,20-10-2025,Boroka Gin,5,22500
+110,Jazz Corner,Bangalore,22-10-2025,Boroka Gin,3,13500
+101,The Vault,Bangalore,25-10-2025,Boroka Gin,4,18000
+102,Skybar,Bangalore,28-10-2025,Boroka Gin,3,13500
+103,Noir Lounge,Bangalore,02-11-2025,Boroka Gin,3,13500
+104,Metro Club,Bangalore,05-11-2025,Boroka Gin,2,9000
+105,Urban Spirits,Bangalore,08-11-2025,Boroka Gin,8,36000
+106,The Library,Bangalore,10-11-2025,Boroka Gin,4,18000
+107,Cloud Nine,Bangalore,12-11-2025,Boroka Gin,5,22500
+108,Basement Bar,Bangalore,15-11-2025,Boroka Gin,3,13500
+109,Rooftop Republic,Bangalore,18-11-2025,Boroka Gin,6,27000
+110,Jazz Corner,Bangalore,20-11-2025,Boroka Gin,4,18000
+101,The Vault,Bangalore,22-11-2025,Boroka Gin,5,22500
+102,Skybar,Bangalore,25-11-2025,Boroka Gin,6,27000
+103,Noir Lounge,Bangalore,28-11-2025,Boroka Gin,4,18000
+104,Metro Club,Bangalore,01-12-2025,Boroka Gin,5,22500
+105,Urban Spirits,Bangalore,03-12-2025,Boroka Gin,7,31500
+106,The Library,Bangalore,05-12-2025,Boroka Gin,2,9000
+107,Cloud Nine,Bangalore,08-12-2025,Boroka Gin,6,27000
+108,Basement Bar,Bangalore,10-12-2025,Boroka Gin,1,4500
+109,Rooftop Republic,Bangalore,12-12-2025,Boroka Gin,4,18000
+110,Jazz Corner,Bangalore,15-12-2025,Boroka Gin,5,22500
+101,The Vault,Bangalore,18-12-2025,Boroka Gin,2,9000
+102,Skybar,Bangalore,20-12-2025,Boroka Gin,4,18000
+103,Noir Lounge,Bangalore,22-12-2025,Boroka Gin,1,4500
+111,Tipsy Elephant,Bangalore,01-12-2025,Boroka Gin,3,13500
+112,Monkey Bar,Bangalore,05-12-2025,Boroka Gin,4,18000
+113,Toit Brewpub,Bangalore,10-12-2025,Boroka Gin,6,27000
+114,Arbor Brewing,Bangalore,15-12-2025,Boroka Gin,5,22500
+115,By The Way,Bangalore,18-12-2025,Boroka Gin,2,9000
