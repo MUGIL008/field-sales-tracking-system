@@ -8,7 +8,7 @@
 
 I encountered an error with bcrypt because passlib was unable to read bcrypt's version number correctly due to compatibility issues with newer versions of passlib. I had to downgrade bcrypt to version 4.0.1.
 
-These types of environment and dependency issues are not coding issues; they are issues of understanding how Python is packaged, which was a real learning experience for me. After I got that working, everything else was pretty easy.
+These types of environment and dependency issues are not coding issues; they are issues of understanding how Python is packaged, which was a real learning experience for me. 
 
 ---
 
